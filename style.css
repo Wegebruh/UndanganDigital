@@ -646,6 +646,17 @@ footer li {
         margin: 3px;
     }
 
+    @media (max-width: 280px) {
+    html {
+        font-size: 55%;
+    }
+
+    .simply-countdown .simply-section {
+        padding: 10px;
+        margin: 4.5px;
+    }
+}
+
     .simply-countdown {
         padding-left: 15px;
     }
